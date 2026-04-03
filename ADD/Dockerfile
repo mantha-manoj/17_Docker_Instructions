@@ -1,2 +1,2 @@
 FROM almalinux:9
-ADD http://http://100.27.247.138:81/ /tmp/
+ADD https://raw.githubusercontent.com/daws-88s/dockerfiles/refs/heads/main/ADD/Dockerfile /tmp/
